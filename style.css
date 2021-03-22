@@ -1,0 +1,120 @@
+*{
+    font-family: 'Redressed', cursive;
+    }
+body{
+    background-image: url(top-banner.png);
+    background-repeat: no-repeat;
+}
+section{
+    height: 450px;
+ bottom: 10px;
+}
+.header-main{
+    float: left;
+    width: 40%;
+   margin-left:8%;
+    
+}
+.header-main h1
+{
+    font-size: 45px;
+}
+.header-main h3{
+    font-size: 30px;
+}
+.header-main p{
+   font-size: 20px;
+   color: gray;  
+}
+ 
+.image-sec img{
+    float:right;
+    width:40%;
+}
+.middest{
+    float:right;
+        background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+ background-position: right;
+ 
+    
+}
+.middle{
+    float: right;
+    margin-right:8%;
+    width: 40%;
+        
+}
+.middle h1{
+    font-size: 45px;
+}
+.middle h3{
+    font-size: 30px;
+}
+.middle p{
+    font-size: 20px;
+    color: gray; 
+     
+     
+}
+.middle-img img {
+ float: left;
+ width:40%;
+}
+.btn{
+     border-radius: 6px;
+    font-size: 28px;
+    border: 1px solid orange; 
+    background-image: linear-gradient(orange,  orangered);
+    
+}
+
+
+.last{
+    float:left;
+    padding-left:10%;
+    margin-left:2%;
+  border-style: outset;
+  
+}
+.last h1{
+    font-size: 45px;
+}
+.last h4{
+    font-size: 25px;
+}
+.last p{
+    font-size: 20px;
+    color: gray; 
+    width: 70%;
+     
+}
+ 
+.last2{
+    float:left;
+    padding-left:10%;
+    margin-left:2%;  
+    border-style: outset;
+      
+}
+.last2 h1{
+    font-size: 45px;
+}
+.last2 h4{
+    font-size: 25px;
+}
+.last2 p{
+    font-size: 20px;
+    color: gray; 
+     width: 70%;
+}
+.End{
+    padding-left:1%;
+    margin-left:0%; 
+    display: flex;
+    background-image: url(exp-bg.png);
+    background-repeat: no-repeat;
+    background-position:left;
+    }
+
+
